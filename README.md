@@ -7,4 +7,4 @@ Implementation will be released soon.
 ---
 
 ## Acknowledgement
-Our work benefits a lot from [Eoras](https://github.com/amazon-science/efficient-object-centric-representation-amodal-segmentation) and C2F and Polarmask. Thanks for their wonderful works.
+Our work benefits a lot from [Eoras](https://github.com/amazon-science/efficient-object-centric-representation-amodal-segmentation) 、[C2F](https://github.com/amazon-science/c2f-seg) and [Polarmask](https://github.com/xieenze/PolarMask). Thanks for their wonderful works.
