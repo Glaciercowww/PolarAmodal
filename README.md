@@ -1,4 +1,4 @@
-# polar-modal
+# PolarModal: Enhancing Amodal Segmentation with Dual-Branch Polar Feature Refinement
 Implementation will be released soon.
 
 
@@ -7,4 +7,4 @@ Implementation will be released soon.
 ---
 
 ## Acknowledgement
-Our work benefits a lot from Eoras and C2F and Polarmask. Thanks for their wonderful works.
+Our work benefits a lot from [Eoras](https://github.com/amazon-science/efficient-object-centric-representation-amodal-segmentation) and C2F and Polarmask. Thanks for their wonderful works.
