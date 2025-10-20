@@ -1,4 +1,4 @@
-# PolarModal: Enhancing Amodal Segmentation with Dual-Branch Polar Feature Refinement
+# PolarAmodal: Enhancing Amodal Segmentation with Dual-Branch Polar Feature Refinement
 Implementation will be released soon.
 
 
